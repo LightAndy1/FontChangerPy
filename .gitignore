@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+text_styler
 
 # Spyder project settings
 .spyderproject
